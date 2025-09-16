@@ -12,4 +12,4 @@ If anything is broken or dysfunctional, it might be a result of this hacky solut
 
 I'm pretty certain that it's fine. But just in case, I want to make you aware.
 
-Thank you, Benjamin Carpenter
+Thank you, Name
