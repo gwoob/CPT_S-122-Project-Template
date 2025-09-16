@@ -4,7 +4,7 @@ The project definition (.vcxproj) was rolled by me. It serves as a template that
 
 Microsoft's own SlnGen is the tool I use to generate the project solution (.sln).
 
-GUIDGen.sh is a POSIX shell script that generates a new GUID, installs it in the project defenition, and generates the project solution.
+GUIDGen.sh is a POSIX shell script that generates a new GUID, installs it in the project defenition, and generates the project solution with SlnGen.
 
 This is ONLY for C projects. In the future I will probably make a C++ verison.
 
