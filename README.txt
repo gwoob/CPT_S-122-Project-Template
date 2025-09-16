@@ -1,0 +1,15 @@
+Hello!
+
+I do not use Windows, and so I lack access to Visual Studio.
+
+The project definition (.vcxproj) was rolled by me.
+
+Microsoft's own SlnGen is the tool I use to generate the project solution (.sln).
+
+GUIDGen.sh is a POSIX shell script that generates a new GUID, installs it in the project defenition, and generates the project solution.
+
+If anything is broken or dysfunctional, it might be a result of this hacky solution…
+
+I'm pretty certain that it's fine. But just in case, I want to make you aware.
+
+Thank you, Benjamin Carpenter
