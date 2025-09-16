@@ -20,7 +20,6 @@ vcxproj="$1"
 # Check if {GUID} placeholder exists
 if ! grep -q '{GUID}' "$vcxproj"; then
     echo "No {GUID} placeholder found in $vcxproj."
-    exit 1
 fi
 
 # Generate uppercase GUID in {XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX} format
